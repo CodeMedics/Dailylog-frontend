@@ -1,0 +1,7 @@
+apis 파일에 넣을 것들
+
+
+
+backend 에서 만들 restapi 를 호출하는 구문을 작성한다.
+
+public/img/apis예시.png 를 참고.
