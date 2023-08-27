@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Layout from "./layouts/layout";
+import Layout from "./layouts/admin-layout";
 import AdminFeedReportList from "./pages/admin-feedreport";
 import AdminCommentReportList from "./pages/admin-commentreport";
 
